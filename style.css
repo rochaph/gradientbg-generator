@@ -19,18 +19,22 @@ h3 {
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: none;
-    letter-spacing: 0.01em;
+    letter-spacing: 0.01em;=
 }
 
 .color1 {
     position: relative;
     border-radius: 7px;
+    -webkit-border-radius:7px;
+    -moz-border-radius:7px;
     margin: 5px;
 }
 
 .color2 {
     position: relative;
     border-radius: 7px;
+    -webkit-border-radius:7px;
+    -moz-border-radius:7px;
     margin: 5px;
 }
 
