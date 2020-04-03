@@ -3,8 +3,6 @@ let color1 = document.querySelector(".color1");
 let color2 = document.querySelector(".color2");
 let changeButton = document.querySelector(".change-color");
 let body = document.getElementById("gradient");
-let defaultColor1 = "#00ff00"
-let defaultColor2 = "#ff0000"
 
 css.textContent = body.style.background;
 
