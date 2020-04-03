@@ -9,7 +9,9 @@ body {
 }
 
 img {
-    width: 30%;
+    max-width: 600px;
+    max-height: auto;
+    width: auto;
     height: auto;
 }
 
