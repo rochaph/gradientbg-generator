@@ -39,9 +39,13 @@ h3 {
 }
 
 .change-color {
-    background-position: center;
+    background-size: cover;
+    outline: transparent;
+    background-repeat: no-repeat;
+    border-color: transparent;
     border-radius: 5px;
-    background-image: url("images/trocar.png");
+    background-image: url("images/trocar.svg");
+    background-color: transparent;
     width: 30px;
     height: 27px;
     margin: 5px;
